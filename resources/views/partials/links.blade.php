@@ -10,3 +10,5 @@
 <link
     href="https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&family=Mitr:wght@500&family=Oleo+Script:wght@700&display=swap"
     rel="stylesheet">
+{{-- <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}"> --}}
+{{-- <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}"> --}}
