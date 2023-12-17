@@ -42,4 +42,24 @@
             </video>
         </div>
     </section>
+
+    <div class="section-jasa container card mb-2">
+        <div class="row d-flex justify-content-center row-card-jasa">
+            <div
+                class="col-lg-3 col-md-3 col-sm-3 col-3 card card-jasa d-flex justify-content-center align-items-center p-3">
+                <img src="{{ asset('assets/icons/web.png') }}" alt="website" class="img-jasa">
+                <p>Website</p>
+            </div>
+            <div
+                class="col-lg-3 col-md-3 col-sm-3 col-3 card card-jasa d-flex justify-content-center align-items-center p-3 ">
+                <img src="{{ asset('assets/icons/mobile.png') }}" alt="mobile" class="img-jasa">
+                <p>Mobile</p>
+            </div>
+            <div
+                class="col-lg-3 col-md-3 col-sm-3 col-3 card card-jasa d-flex justify-content-center align-items-center p-3 ">
+                <img src="{{ asset('assets/icons/skripsi.png') }}" alt="skripsi" class="img-jasa">
+                <p>Skripsi</p>
+            </div>
+        </div>
+    </div>
 @endsection
